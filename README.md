@@ -6,9 +6,9 @@
 
 ## 1. Скопируйте скрипт в /usr/local/bin/:
 
-`   bash`
- `  sudo cp monitor_test.sh /usr/local/bin/`
- `  sudo chmod +x /usr/local/bin/monitor_test.sh`
+`bash`
+`sudo cp monitor_test.sh /usr/local/bin/`
+`sudo chmod +x /usr/local/bin/monitor_test.sh`
 
 ## 2. Скопируйте systemd юниты:
 
